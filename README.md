@@ -23,9 +23,8 @@ This is my personal fork of dwm. It focus in productivity, minimalism and stabil
 </details>
 
 ## Prerequisites
-You need to have Xorg for launching dwm and devel tools.
+You need to have Xorg for launching dwm and devel tools for compiling. Git is not mandatory for installation so you can delete it form the command if you want.
 
-For to do: Adding cli lines for dependencies installation
 <details>
   <summary>Arch</summary>
 
@@ -38,15 +37,16 @@ For to do: Adding cli lines for dependencies installation
   <summary>Debian/ubuntu</summary>
 
   ```sh
-  sudo apt install 
+  sudo apt install build-essential xorg git
   ```
+  
 </details>
 
 <details>
   <summary>RedHat/Fedora</summary>
 
   ```sh
-  sudo rpm install
+  sudo dnf install @base-x gitt && sudo dnf groupinstall "Development Tools" "Development Libraries"
   ```
 </details>
 
@@ -55,13 +55,14 @@ For to do: Adding cli lines for dependencies installation
 > [!NOTE]
 > - You may want to have your dwmw folder in a specific folder, so you can always go back if you made configuration changes before compilation. In any case this dwm ricing works well out of the box.
 > - If you want to have dmenu centered check my dmenu repo at 
-
+> - If you want to use dwm with xinit, check if your xorg installation came with xinit, most of the time it does, but if you don't have it you can install it by searching for the package xinit in your distribution.
 
 ## Installation
 
 ```sh
 git clone https://github.com/CarlosR759/dwm-rice.git && cd dwm-rice
 ```
+
 ```sh
 sudo make clean install
 ```
