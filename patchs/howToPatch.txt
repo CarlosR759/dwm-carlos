@@ -1,0 +1,3 @@
+patch -p1 < patch/patchName.diff // Install patch
+patch -R < patch/patchName.diff // Uninstall Patch
+sudo make clean install // install program

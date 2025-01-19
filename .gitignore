@@ -1,0 +1,18 @@
+# Compiled binaries
+*.o
+*.exe
+
+# Dependency files
+*.d
+
+# Debugging files
+*~*
+
+# IDE-specific files
+*.project
+*.cproject
+*.settings
+*.iml
+
+# Other files
+dwm
