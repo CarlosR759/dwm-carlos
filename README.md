@@ -9,16 +9,16 @@
 This is my personal fork of dwm. It focus in productivity, minimalism and stability with nice user interface.
 
 <details>
-    <summary> Click to see the list of patches applied in my ricing </summary>
-    
-    - alwaysCenter
-    - attachBottom
-    - autoStart
-    - moveStack
-    - pertag
-    - status2d
-    - vanityGapps [Includes bottom stack, gridmode, fibonnaci layouts and more]
-    - warp
+  <summary> Click to see the list of patches applied in my dwm ricing </summary>
+  
+  - alwaysCenter
+  - attachBottom
+  - autoStart
+  - moveStack
+  - pertag
+  - status2d
+  - vanityGapps [Includes bottom stack, gridmode, fibonnaci layouts and more]
+  - warp
 
 </details>
 
@@ -80,7 +80,7 @@ sudo make clean install
 #### Did you have  the same rice for wayland in dwl ? 
 
 <details>
-<answer> Answer </answer>
+    <answer> Answer </answer>
 
 No I dont have it. Since I want my system to be stable for work intentions, i made the decision to use dwm. Maybe in the future I could make it, but only if I see that dwl + patches is stable and the switching from Xorg is a better choice for productivity.
 </details>
@@ -88,15 +88,15 @@ No I dont have it. Since I want my system to be stable for work intentions, i ma
 #### What compositor did you use for your animations ? 
 
 <details>
-<answer> Answer </answer>
+    <answer> Answer </answer>
 
 I use the default picom made by yshui which is the default in many distros. FT-Labs and PiJulius picoms are also great adn with more animations, but doesn't have the same support as yshui picom and are experimental. So for stability reasons I decided to use yshui picom, so less fancy animations but stable and comfy system.
-</>details>
+</details>
 
 #### How can I get the power, reset, lock and suspend bottoms at the end of the gif video ?
 
 <details>
-<answer> Answer </answer>
+    <answer> Answer </answer>
 
 Just get my dot files or use the content of my rofi content in your .config folder. This also can be applied to my picom config if you like the animations.
 </details>
@@ -104,7 +104,7 @@ Just get my dot files or use the content of my rofi content in your .config fold
 #### How can I get the centered menu in  your gif video ? 
 
 <details>
-<answer> Answer </answer>
+    <answer> Answer </answer>
 
 Just go to my dmenu repo and install it
 </details>
