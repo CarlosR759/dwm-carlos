@@ -79,28 +79,32 @@ sudo make clean install
 
 #### Did you have  the same rice for wayland in dwl ? 
 
-<Answer>
+<details>
+<answer> Answer </answer>
 
 No I dont have it. Since I want my system to be stable for work intentions, i made the decision to use dwm. Maybe in the future I could make it, but only if I see that dwl + patches is stable and the switching from Xorg is a better choice for productivity.
-</Answer>
+</details>
 
 #### What compositor did you use for your animations ? 
 
-<Answer>
+<details>
+<answer> Answer </answer>
 
 I use the default picom made by yshui which is the default in many distros. FT-Labs and PiJulius picoms are also great adn with more animations, but doesn't have the same support as yshui picom and are experimental. So for stability reasons I decided to use yshui picom, so less fancy animations but stable and comfy system.
-</>Answer>
+</>details>
 
 #### How can I get the power, reset, lock and suspend bottoms at the end of the gif video ?
 
-<Answer>
+<details>
+<answer> Answer </answer>
 
 Just get my dot files or use the content of my rofi content in your .config folder. This also can be applied to my picom config if you like the animations.
-</Answer>
+</details>
 
 #### How can I get the centered menu in  your gif video ? 
 
-<Answer>
+<details>
+<answer> Answer </answer>
 
 Just go to my dmenu repo and install it
-</Answer>
+</details>
