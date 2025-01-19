@@ -1,9 +1,10 @@
-<div aling="center">
-    <img src="./dwm.png" alt="dwm-logo-bordered" width="195" height="90"/>
-    
-    # Dynamic window manager
-    
-</div> 
+<div align="center">
+  <img src="./dwm.png" alt="dwm-logo-bordered" width="195" height="90"/>
+
+  # dwm - dynamic window manager
+  ### dwm is an extremely ***fast***, ***small***, and ***dynamic*** window manager for X.
+
+</div>
 
 ---
 This is my personal fork of dwm. It focus in productivity, minimalism and stability with nice user interface.
