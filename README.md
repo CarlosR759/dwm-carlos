@@ -71,8 +71,8 @@ sudo make clean install
 - If you want just to run it by tty without a login manager then be sure to have xinit script installed and setup your .xinitrc well. After everything at the end of the .xinitrc file append `dwm`
 
 > [!TIP]
-> - By default you can launch terminals with <kbd>Super/Windows</kbd>+<kbd>Enter</kbd> If you don't have alacritty go to config.h and edit the file to have your desired terminal.
-> - You can kill your dwm session with <kbd>Super/Windows</kbd>+<kbd>Shift</kbd>+<kbd>Q</kbd>
+> - By default you can launch terminals with <kbd>Super/Windows</kbd> + <kbd>Enter</kbd> If you don't have alacritty go to config.h and edit the file to have your desired terminal.
+> - You can kill your dwm session with <kbd>Super/Windows</kbd> + <kbd>Shift</kbd> + <kbd>Q</kbd>
 > - For keybindings changes made it in config.h
 
 ## FAQ
@@ -105,6 +105,7 @@ sudo make clean install
 
 <details>
   <content>
-    Just go to my dmenu repo and install it
+    Just go to my dmenu repo and install it https://github.com/CarlosR759/dmenu-rice
+
   </conent>
 </details>
