@@ -1,8 +1,10 @@
 <div aling="center">
-    <img src="./dwm.png" alt="dwm-logo" width="195" height="90"/>
-
+    <img src="./dwm.png" alt="dwm-logo-bordered" width="195" height="90"/>
+    
     # Dynamic window manager
+    
 </div> 
+
 ---
 This is my personal fork of dwm. It focus in productivity, minimalism and stability with nice user interface.
 
@@ -41,10 +43,13 @@ For to do: Adding cli lines for dependencies installation
 > [!NOTE]
 > You may want to have your dwmw folder in a specific folder, so you can always go back if you made configuration changes before compilation. In any case this dwm ricing works well out of the box.
 
+> If you want to have dmenu centered check my dmenu repo at 
+
+
 ## Installation
 
 ```sh
-git clone https://github.com/CarlosR759/dwm-carlos.git && cd dwm-carlos
+git clone https://github.com/CarlosR759/dwm-rice.git && cd dwm-rice
 ```
 ```sh
 sudo make clean install
@@ -76,7 +81,3 @@ Answer: Just get my dot files or use the content of my rofi content in your .con
 How can I get the centered menu in  your gif video ? 
 
 Answer: Just go to my dmenu repo and install it
-
-
-
-
