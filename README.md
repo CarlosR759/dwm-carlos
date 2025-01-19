@@ -1,7 +1,7 @@
 <div align="center">
   <img src="./dwm.png" alt="dwm-logo-bordered" width="195" height="90"/>
 
-  # Dynamic window manager
+  \\# Dynamic window manager
 
 </div>
 
@@ -81,32 +81,28 @@ sudo make clean install
 
 #### Did you have  the same rice for wayland in dwl ? 
 
-<details>
-
+\<details>
 
 No I dont have it. Since I want my system to be stable for work intentions, i made the decision to use dwm. Maybe in the future I could make it, but only if I see that dwl + patches is stable and the switching from Xorg is a better choice for productivity.
 </details>
 
 #### What compositor did you use for your animations ? 
 
-<details>
-
+\<details>
 
 I use the default picom made by yshui which is the default in many distros. FT-Labs and PiJulius picoms are also great and with many more animations, but doesn't have the same support as yshui picom and are experimental. So for stability reasons I decided to use yshui picom, so less fancy animations but stable and comfy system.
-</details>
+\</details>
 
 #### How can I get the power, reset, lock and suspend bottoms at the end of the gif video ?
 
-<details>
-
+\<details>
 
 Just get my dot files or use the content of my rofi content in your .config folder. This also can be applied to my picom config if you like the animations.
 </details>
 
 #### How can I get the centered menu in your gif video ? 
 
-<details>
-
+\<details>
 
 Just go to my dmenu repo and install it
 </details>
