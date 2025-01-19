@@ -41,9 +41,8 @@ For to do: Adding cli lines for dependencies installation
 
 
 > [!NOTE]
-> You may want to have your dwmw folder in a specific folder, so you can always go back if you made configuration changes before compilation. In any case this dwm ricing works well out of the box.
-> [!NOTE]
-> If you want to have dmenu centered check my dmenu repo at 
+> - You may want to have your dwmw folder in a specific folder, so you can always go back if you made configuration changes before compilation. In any case this dwm ricing works well out of the box.
+> - If you want to have dmenu centered check my dmenu repo at 
 
 
 ## Installation
