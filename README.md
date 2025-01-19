@@ -71,24 +71,35 @@ sudo make clean install
 - If you want to run it by tty then be sure to have xinit script installed and setup your .xinitrc well. After everything at the end of the .xinitrc file append `dwm`
 
 > [!TIP]
-> - By default you launch terminals with <kbd>SUPER/Windows</kbd>+<kbd>Enter</kbd> If you don't have alacritty go to config.h and edit the file to have your desired terminal.
+> - By default you can launch terminals with <kbd>SUPER/Windows</kbd>+<kbd>Enter</kbd> If you don't have alacritty go to config.h and edit the file to have your desired terminal.
 > - You can kill your dwm session with <kbd>SUPER/Windows</kbd>+<kbd>Shift</kbd>+<kbd>Q<kbd>
 > - For keybindings changes made it in config.h
 
-## Faq
+## FAQ
 
 #### Did you have  the same rice for wayland in dwl ? 
 
-Answer: No I dont have it. Since I want my system to be stable for work intentions, i made the decision to use dwm. Maybe in the future I could make it, but only if I see that dwl + patches is stable and the switching from Xorg is a better choice for productivity.
+<details>
+<Answer></Answer>
+No I dont have it. Since I want my system to be stable for work intentions, i made the decision to use dwm. Maybe in the future I could make it, but only if I see that dwl + patches is stable and the switching from Xorg is a better choice for productivity.
+</details>
 
 #### What compositor did you use for your animations ? 
 
-Answer: I use the default picom made by yshui which is the default in many distros. FT-Labs and PiJulius picoms are also great adn with more animations, but doesn't have the same support as yshui picom and are experimental. So for stability reasons I decided to use yshui picom, so less fancy animations but stable and comfy system.
-
+<details>
+<Answer></Answer>
+I use the default picom made by yshui which is the default in many distros. FT-Labs and PiJulius picoms are also great adn with more animations, but doesn't have the same support as yshui picom and are experimental. So for stability reasons I decided to use yshui picom, so less fancy animations but stable and comfy system.
+</details>
 #### How can I get the power, reset, lock and suspend bottoms at the end of the gif video ?
 
-Answer: Just get my dot files or use the content of my rofi content in your .config folder. This also can be applied to my picom config if you like the animations.
+<details>
+<answer></answer>
+Just get my dot files or use the content of my rofi content in your .config folder. This also can be applied to my picom config if you like the animations.
+</details>
 
 #### How can I get the centered menu in  your gif video ? 
 
-Answer: Just go to my dmenu repo and install it
+<details>
+<Answer></Answer>
+Just go to my dmenu repo and install it
+</details>
