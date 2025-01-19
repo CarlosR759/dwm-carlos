@@ -27,27 +27,27 @@ You need to have Xorg for launching dwm and devel tools.
 
 For to do: Adding cli lines for dependencies installation
 <details>
-    <summary>Arch</summary>
+  <summary>Arch</summary>
 
-    ```sh
-    sudo pacman -S base base-devel xorg git
-    ```
+  ```sh
+  sudo pacman -S base base-devel xorg git
+  ```
 </details>
 
 <details>
-    <summary>Debian/ubuntu</summary>
+  <summary>Debian/ubuntu</summary>
 
-    ```sh
-    sudo apt install 
-    ```
+  ```sh
+  sudo apt install 
+  ```
 </details>
 
 <details>
-    <summary>RedHat/Fedora</summary>
+  <summary>RedHat/Fedora</summary>
 
-    ```sh
-    sudo rpm install
-    ```
+  ```sh
+  sudo rpm install
+  ```
 </details>
 
 
@@ -80,7 +80,6 @@ sudo make clean install
 #### Did you have  the same rice for wayland in dwl ? 
 
 <details>
-    <answer> Answer </answer>
 
 No I dont have it. Since I want my system to be stable for work intentions, i made the decision to use dwm. Maybe in the future I could make it, but only if I see that dwl + patches is stable and the switching from Xorg is a better choice for productivity.
 </details>
@@ -88,7 +87,6 @@ No I dont have it. Since I want my system to be stable for work intentions, i ma
 #### What compositor did you use for your animations ? 
 
 <details>
-    <answer> Answer </answer>
 
 I use the default picom made by yshui which is the default in many distros. FT-Labs and PiJulius picoms are also great adn with more animations, but doesn't have the same support as yshui picom and are experimental. So for stability reasons I decided to use yshui picom, so less fancy animations but stable and comfy system.
 </details>
@@ -96,7 +94,6 @@ I use the default picom made by yshui which is the default in many distros. FT-L
 #### How can I get the power, reset, lock and suspend bottoms at the end of the gif video ?
 
 <details>
-    <answer> Answer </answer>
 
 Just get my dot files or use the content of my rofi content in your .config folder. This also can be applied to my picom config if you like the animations.
 </details>
@@ -104,7 +101,6 @@ Just get my dot files or use the content of my rofi content in your .config fold
 #### How can I get the centered menu in  your gif video ? 
 
 <details>
-    <answer> Answer </answer>
 
 Just go to my dmenu repo and install it
 </details>
