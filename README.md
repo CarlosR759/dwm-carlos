@@ -42,7 +42,7 @@ For to do: Adding cli lines for dependencies installation
 
 > [!NOTE]
 > You may want to have your dwmw folder in a specific folder, so you can always go back if you made configuration changes before compilation. In any case this dwm ricing works well out of the box.
-
+> [!NOTE]
 > If you want to have dmenu centered check my dmenu repo at 
 
 
@@ -61,8 +61,9 @@ sudo make clean install
 
 > [!TIP]
 > - By default you launch terminals with <kbd>SUPER/Windows</kbd>+<kbd>Enter</kbd> If you don't have alacritty go to config.h and edit the file to have your desired terminal.
-
+> [!TIP]
 > - You can kill your dwm session with <kbd>SUPER/Windows</kbd>+<kbd>Shift</kbd>+<kbd>Q<kbd>
+> [!TIP]
 > - For keybindings changes made it in config.h
 
 ## Faq
