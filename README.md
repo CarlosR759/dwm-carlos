@@ -28,14 +28,23 @@ You need to have Xorg for launching dwm and devel tools.
 For to do: Adding cli lines for dependencies installation
 <details>
     <summary>Arch</summary>
+    ```sh
+    sudo pacman -S base base-devel xorg git
+    ```
 </details>
 
 <details>
     <summary>Debian/ubuntu</summary>
+    ```sh
+    sudo apt install 
+    ```
 </details>
 
 <details>
     <summary>RedHat/Fedora</summary>
+    ```sh
+    sudo rpm install
+    ```
 </details>
 
 
@@ -58,11 +67,9 @@ sudo make clean install
 
 - If you want to run it by tty then be sure to have xinit script installed and setup your .xinitrc well. After everything at the end of the .xinitrc file append `dwm`
 
-> [!TIP]
+> [!TIPS]
 > - By default you launch terminals with <kbd>SUPER/Windows</kbd>+<kbd>Enter</kbd> If you don't have alacritty go to config.h and edit the file to have your desired terminal.
-> [!TIP]
 > - You can kill your dwm session with <kbd>SUPER/Windows</kbd>+<kbd>Shift</kbd>+<kbd>Q<kbd>
-> [!TIP]
 > - For keybindings changes made it in config.h
 
 ## Faq
