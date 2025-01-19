@@ -53,6 +53,7 @@ You need to have Xorg for launching dwm and devel tools for compiling. Git is no
 > [!NOTE]
 > - You may want to have your dwm folder in a specific folder, so you can always go back if you made configuration changes before compilation. In any case this dwm ricing works well out of the box.
 > - If you want to have dmenu centered check my dmenu repo at https://github.com/CarlosR759/dmenu-rice
+> - If you want my status bar you can get it from my repo at https://github.com/CarlosR759/dwmBlocks-rice
 > - If you want to use dwm with xinit, check if your xorg installation came with xinit, most of the time it does, but if you don't have it you can install it by searching for the package xinit in your distribution.
 > - If you want the picom animations check my dotfiles repo. Animations uses experimental features from picom https://picom.app/#_animations because I use geometry-change. If you want a system with no posible bugs maybe you want to use it without the animations field.
 
