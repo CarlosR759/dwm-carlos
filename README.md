@@ -104,7 +104,7 @@ sudo make clean install
   </content>
 </details>
 
-### Did your dwm have sys tray ?
+#### Did your dwm have sys tray ?
 
 <details>
   <content>
