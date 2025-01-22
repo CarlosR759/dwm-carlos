@@ -100,15 +100,14 @@ sudo make clean install
 
 <details>
   <content>
-    Just get my dot files or use the content of my rofi content in your .config folder. This also can be applied to my picom config if you like the animations.
+    Just get my dot files or use the content of my rofi folder in your .config folder. This also can be applied to my picom config if you like the animations.
   </content>
 </details>
 
-#### How can I get the centered menu in your gif video ? 
+### Did your dwm have sys tray ?
 
 <details>
   <content>
-    Just go to my dmenu repo and install it https://github.com/CarlosR759/dmenu-rice
-
-  </conent>
+    No it doesn't, but you can patch it if you want it. 
+  </content>
 </details>
