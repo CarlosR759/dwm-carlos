@@ -4,6 +4,8 @@
   # Dynamic window manager
 </div>
 
+![Preview](/.github/preview.gif)
+
 This is my personal fork of dwm. It focus in productivity, minimalism and stability with a nice user interface.
 
 <details>
